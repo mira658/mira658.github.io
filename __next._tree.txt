@@ -1,9 +1,13 @@
-:HL["/_next/static/css/a28c100440495ca2.css","style"]
+:HL["/_next/static/css/84b15b3814724a99.css","style"]
 :HL["/_next/static/css/991586c29a20f1ea.css","style"]
+:HL["/lanyard/card-optimized.glb","fetch",{"crossOrigin":"anonymous"}]
+:HL["/lanyard/lanyard.png","image"]
+:HL["/lanyard/front.svg","image"]
+:HL["/mira-portrait.jpg","image"]
 :HL["/brand-bluefocus.png","image"]
 :HL["/brand-netease.png","image"]
 :HL["/brand-jd.svg","image"]
 :HL["/whu-emblem.png","image"]
 :HL["/hero-reference-preserved-2x.webp","image"]
 :HL["/hero-reference-locked-2x.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"bHzRCzvauZHLB5LX0BJjP"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Mcorhtll-78_9lP9Uz15r"}

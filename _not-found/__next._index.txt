@@ -2,5 +2,9 @@
 2:I[7121,[],""]
 3:I[4581,[],""]
 4:I[6734,["177","static/chunks/app/layout-5c0307b23d12505e.js"],"default"]
-:HL["/_next/static/css/a28c100440495ca2.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a28c100440495ca2.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}],["$","$L4",null,{"sparkColor":"#b94d26"}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"bHzRCzvauZHLB5LX0BJjP"}
+:HL["/_next/static/css/84b15b3814724a99.css","style"]
+:HL["/lanyard/card-optimized.glb","fetch",{"crossOrigin":"anonymous"}]
+:HL["/lanyard/lanyard.png","image"]
+:HL["/lanyard/front.svg","image"]
+:HL["/mira-portrait.jpg","image"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/84b15b3814724a99.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","href":"/lanyard/card-optimized.glb","as":"fetch","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/lanyard/lanyard.png","as":"image"}],["$","link",null,{"rel":"preload","href":"/lanyard/front.svg","as":"image"}],["$","link",null,{"rel":"preload","href":"/mira-portrait.jpg","as":"image"}]]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}],["$","$L4",null,{"sparkColor":"#b94d26"}]]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Mcorhtll-78_9lP9Uz15r"}
